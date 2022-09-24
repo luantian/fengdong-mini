@@ -1,0 +1,5 @@
+<!--index.wxml-->
+<view class="container">
+  <web-view src="http://www.hrbcc-tech.cn:9003"></web-view>
+</view>
+
